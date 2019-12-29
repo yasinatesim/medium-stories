@@ -3,11 +3,11 @@
 ## Konu başlıkları
 - Pug Nedir?
 - Pug Kurulumu
----
 - Pug Kullanımı ve Sözdizimi
   - Açıklama satırları
     - Tekli Satır 
     - Çoklu Satır
+---    
   - Nitelik (Attribute) Tanımlama 
     - id ve class Tanımlama
     - Diğer

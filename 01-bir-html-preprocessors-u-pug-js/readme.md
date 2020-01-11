@@ -7,11 +7,12 @@
   - Açıklama satırları
     - Tekli Satır 
     - Çoklu Satır
----    
+
   - Nitelik (Attribute) Tanımlama 
     - id ve class Tanımlama
     - Diğer
   - Değişken Tanımlama
+---  
   - Döngüler
     - for
     - each

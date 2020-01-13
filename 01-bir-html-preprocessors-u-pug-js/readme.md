@@ -12,10 +12,11 @@
     - id ve class Tanımlama
     - Diğer
   - Değişken Tanımlama
----  
+
   - Döngüler
     - for
     - each
+---    
   - Koşullu İfadeler
     - if
     - switch

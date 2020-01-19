@@ -16,7 +16,7 @@
   - Döngüler
     - for
     - each
----    
+
   - Koşullu İfadeler
     - if
     - switch
@@ -26,3 +26,5 @@
   
 Sonuç
 
+----
+Veda
